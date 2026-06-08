@@ -1,0 +1,51 @@
+{
+  "pecho": [
+    "Press banca 4 X 10 ",
+    "Press inclinado 4 X 12",
+    "Aperturas con mancuernas 4 X 8",
+    "Fondos 4 X 6",
+    "Flexiones 4 X 14"
+  ],
+  "espalda": [
+    "Dominadas 4 X 6",
+    "Remo con barra 4 X 14",
+    "Jalón al pecho 4 X 12",
+    "Peso muerto 4 X 8",
+    "Remo con mancuerna 4 X 14"
+  ],
+  "piernas": [
+    "Sentadillas 4 X 10",
+    "Prensa 4 X 6",
+    "Peso muerto rumano",
+    "Zancadas 4 X 14",
+    "Extensiones de cuádriceps 4 X 8"
+  ],
+  "hombros": [
+    "Press militar 4 X 8",
+    "Elevaciones laterales 4 X 14",
+    "Elevaciones frontales 4 X 10",
+    "Pájaros 4 X 12",
+    "Encogimientos 4 X 8"
+  ],
+  "biceps": [
+    "Curl con barra 4 X 8",
+    "Curl martillo 4 X 10",
+    "Curl alternado  4 X 14",
+    "Curl concentrado 4 X 12",
+    "Curl en banco inclinado 4 X 6"
+  ],
+  "triceps": [
+    "Press francés 4 X 6",
+    "Extensiones en polea 4 X 12",
+    "Fondos 4 X 10",
+    "Patada de tríceps 4 X 8",
+    "Press cerrado 4 X 14"
+  ],
+  "abdominales": [
+    "Crunch 4 X 12",
+    "Elevación de piernas 4 X 8",
+    "Plancha 4 X 14",
+    "Russian twist 4 X 6",
+    "Mountain climbers 4 X 10"
+  ]
+}
